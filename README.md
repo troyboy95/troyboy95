@@ -24,6 +24,14 @@ Always asking <b>“why before how.”</b>
 <img src="https://skillicons.dev/icons?i=ts,js,python,java,react,nextjs,nodejs,express,fastapi,postgres,mongodb,redis,docker,aws,firebase,git,linux,figma,prisma,postman" />
 </p>
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-LLM_Framework-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-Agent_Workflows-purple?style=for-the-badge"/>
+
+</p>
+
 ---
 
 ## 🧠 What I Build
