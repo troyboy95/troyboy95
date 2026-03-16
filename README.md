@@ -1,5 +1,5 @@
 <h1 align="center">Hi/Hola/Hallo/Nei-ho 👋, I'm Parv Sharma</h1>
-<h3 align="center">Systems-minded Full-Stack Sofware Engineer • Builder • AI-curious</h3>
+<h3 align="center">Systems-minded Full-Stack Sofware Engineer • Builder • AI-curious • Researcher</h3>
 
 <p align="center">
 I build systems that turn messy real-world problems into practical software.<br>
@@ -65,8 +65,7 @@ Rebuilt **React + MobX + Firebase architecture** from runtime behavior
 
 - AI-native applications
 - Intelligence platforms
-- distributed systems
-- developer productivity tooling
+- Fintech/quant markets
 
 ---
 
