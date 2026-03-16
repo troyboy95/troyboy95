@@ -55,8 +55,8 @@ Rebuilt **React + MobX + Firebase architecture** from runtime behavior
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=troyboy95&show_icons=true&theme=tokyonight" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=troyboy95&theme=tokyonight" height="165"/>
 </p>
 
 ---
@@ -73,9 +73,9 @@ Rebuilt **React + MobX + Firebase architecture** from runtime behavior
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="https://YOUR_PORTFOLIO"><img src="https://skillicons.dev/icons?i=vercel" /></a>
+<a href="https://linkedin.com/in/parvsharma95"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:starparv9577@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://parv-portfolio.netlify.app/"><img src="https://skillicons.dev/icons?i=vercel" /></a>
 </p>
 
 ---
