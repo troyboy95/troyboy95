@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Parv Sharma</h1>
-<h3 align="center">Systems-minded Full-Stack Engineer • Builder • AI-curious</h3>
+<h1 align="center">Hi/Hola/Hallo/Nei-ho 👋, I'm Parv Sharma</h1>
+<h3 align="center">Systems-minded Full-Stack Sofware Engineer • Builder • AI-curious</h3>
 
 <p align="center">
 I build systems that turn messy real-world problems into practical software.<br>
@@ -10,10 +10,10 @@ Always asking <b>“why before how.”</b>
 
 ## 🚀 About Me
 
-- 🧠 Systems thinker who enjoys **reverse-engineering complex architectures**
+- 🧠 Thinker who enjoys tinkering with stuff, such as **reverse-engineering complex architectures**
 - ⚡ I like **shipping fast and iterating from real feedback**
-- 🛠 Built **LLM pipelines, analytics platforms, and production web systems**
-- 🤝 Worked directly with **founders & operators to translate business needs into software**
+- 🛠 Built **LLM pipelines, analytics platforms, and production web systems**, with over 5k+ active users
+- 🤝 Worked directly with **founders & operators, translating business needs into solutions** that create value
 - 🌱 Currently exploring **AI-native systems and intelligence platforms**
 
 ---
@@ -21,7 +21,7 @@ Always asking <b>“why before how.”</b>
 ## 🧰 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,react,nextjs,nodejs,express,fastapi,postgres,mongodb,redis,docker,aws,git,linux,figma" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,react,nextjs,nodejs,express,fastapi,postgres,mongodb,redis,docker,aws,firebase,git,linux,figma,prisma,postman" />
 </p>
 
 ---
